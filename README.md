@@ -1,0 +1,2 @@
+# TFG
+Repositorio con código que he usado para hacer los cálculos de mi TFG: "Estudio de la absorción de fotones en redes periódicas de puntos cuánticos mediante modelos simplificados". No se incluye todo el código utilizado de forma explícita, pues gran parte del objetivo del trabajo consiste en modificar una versión "estándar" de estos scripts para obtener resultados físicamente relevantes. Sin embargo, creo que ver cómo se han hecho los cálculos de forma explícirta puede ser de interés para el lector.
